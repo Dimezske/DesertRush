@@ -1,0 +1,14 @@
+{
+        "platforms":
+        {
+            "platform_type": "ground_sand1",
+            "id": 0,
+            "xpos": 0,
+            "ypos": 0,
+            "width": 200,
+            "height": 150,
+            "texture": "./assets/ground_sand_broken.png"
+
+        }
+}
+
